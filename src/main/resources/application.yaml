@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: smart-recruiters_backend
+
+server:
+  port: 8080
+
+keycloak:
+  realm: myrealm
+  auth-server-url: http://localhost:8081
+  resource: myclient
+  bearer-only: true
+  ssl-required: none
+  credentials:
+    secret: YOUR_CLIENT_SECRET  # If client is 'confidential'

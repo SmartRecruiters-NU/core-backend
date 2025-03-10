@@ -1,4 +1,4 @@
-package com.example.smartrecruiters_backend;
+package kz.edu.nu.smartrecruiters_backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

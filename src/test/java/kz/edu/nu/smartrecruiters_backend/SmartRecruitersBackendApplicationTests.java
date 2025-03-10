@@ -1,4 +1,4 @@
-package com.example.smartrecruiters_backend;
+package kz.edu.nu.smartrecruiters_backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
